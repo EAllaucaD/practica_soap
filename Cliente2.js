@@ -45,4 +45,3 @@ async function getSoapData() {
 }
 
 export default getSoapData;
-
