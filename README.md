@@ -1,4 +1,4 @@
-Proyecto de Práctica usando Rest SOAP
+Proyecto de Práctica usando SOAP
 
 Este proyecto utiliza SOAP para mostrar información de algún país.
 El proyecto está hecho con Node, express, npm.
